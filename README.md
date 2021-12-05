@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrustT
-- 🌱 I’m currently learning C# and Python
+- 🌱 I’m currently learning Python and C#
 - 📫 How to reach me burak.erinc98@gmail.com
 - 🎧 My Discord is Frust#3329
 
